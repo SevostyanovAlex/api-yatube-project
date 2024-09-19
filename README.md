@@ -79,8 +79,3 @@ POST http://localhost:port/api/v1/follow/
     "user": "root",
     "following": "admin"
 }
-<<<<<<< HEAD
-```
-=======
-```
->>>>>>> origin
